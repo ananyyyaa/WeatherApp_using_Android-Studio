@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather_img">Weater Img</string>
+    <string name="city">City</string>
+    <string name="f">F</string>
+    <string name="_0">0</string>
+    <string name="weather_decs">weather decs</string>
+    <string name="weather_app">Weather App</string>
+    <string name="date">Date</string>
+</resources>
